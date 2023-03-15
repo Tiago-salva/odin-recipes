@@ -1,3 +1,2 @@
 # odin-recipes
-First Project
-Why Git it's so hard?
+Project off HTML and CSS
