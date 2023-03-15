@@ -1,2 +1,2 @@
 # odin-recipes
-Project off HTML and CSS
+Project of HTML and CSS
